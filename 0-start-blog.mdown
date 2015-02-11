@@ -1,0 +1,15 @@
+# Start a blog
+
+So, here I am again, starting a blog, I don't even remember how many blogs I started, probably something like 20+. They all died for various reasons, lacking support of markdown, looks elegent but actually horrible file organization, or maybe just missing a perfect editor. Speaking of editor, I tried dozen of editor, can't find a perfect one. It let me think about a teammate in my workspace, I always think of him being obessessed on some trival details, maybe labeled him as over
+engeering. Tunes out that my life is a struggling between engeering and over engeering. and I made many mistakes over and over again. Over engeering always give me an illusion of being capable of doing better, magnificent things. Reality shows me what it turely are, just in time. I was struggling even on what language should I wrote, 中文 or english. I was struggling what my audience are. I was struggling which blog platform I should post to, octopress? wordpress? medium? tumblr? I was depressed on my poor english, little 干货 I could share. What am I doing here, wrote something even me won't look back to it? I guess the reason will be just keeps writing, sharing my thoughts, posting what I found while on the road to a great craftman. I do believe one day I will be. 
+
+
+# Using Sublime Text Again
+
+why, because vim's rendering is not that perfect, sublime works just all right here. I setup sublime 2 on my iMac and sublime 3 on my mbp just for torturing myself. The beta version of sublime 3 is out like forever, and I don't even know what the heck is the difference. They literally looks like the same! Vim is great, the greatest ever, or shall I say one of the greatest editors? emac dudes? anyway, the rendering in vim is just not feels right for writing, besides,
+MardownEditing and Mardown Preview plugin in sublime looks fair robust now. BUT, vim-easymotion just made me so addicted to it! I suppose I will switch to vim from time to time, it just doesn't matter that much. I tired to tune a vim theme for hours and can't get it right, as well as sublime. When everything is perfect, nothing is. 
+
+
+[I've been blogging for 8 freaking years](https://medium.com/i-love-charts/ive-been-blogging-for-8-freaking-years-8ee71659d4c6)
+
+who is my audiences here? I don't know, I don't care, like or hate, take whatever you think is useful. what blog platform? I don't know either, I will just use no.-blog-title for the sake of sorting. what editor? whatever, as long as they works in the way I expected, and I know I'm going to try a new one or switching back to my comfort zone sometime. what am I going to write? well, a lot of ideas in my mind, might not be very unique, might not be amazing, let's see. 
